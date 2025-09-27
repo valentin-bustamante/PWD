@@ -1,5 +1,5 @@
 <?php
-include_once __DIR__. '/../BaseDatos.php';
+include_once __DIR__ . '/BaseDatos.php';
 class Auto {
     private $patente;
     private $marca;
